@@ -38,7 +38,9 @@ public class DownloadImage {
 	    int len;
 	    
 	    // 输出的文件流
+	    
 	   File sf=new File(savePath);
+	   //这里的判断文件夹路径有问题，修改为父路径是否存在。还没改，我得补补IO流
 	   if(!sf.exists()){
 		   sf.mkdirs();
 	   }
