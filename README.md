@@ -5,6 +5,10 @@
 因为有的博客的富文本编辑器对代码展示真的不友好,  
 ## Shadowsocks四合一脚本
 http://t.cn/RDTGIsa
+## Fedora使用proxychain让终端翻墙
+https://github.com/jiqing112/hello/issues/2
+## Fedora使用ss客户端翻墙上网
+https://github.com/jiqing112/hello/issues/1
 ## Java获取系统信息——sigar.jar包的使用
 https://www.jianshu.com/p/f754cb2aa27d
 ## Java Double获取小数点后两位
