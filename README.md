@@ -15,6 +15,8 @@ https://www.jianshu.com/p/f754cb2aa27d
 https://www.jianshu.com/p/d70c7f258201
 ## VPS SS代理上网无限谷歌验证的解决办法
 https://www.jianshu.com/p/8b0f983364c1
+## Linux创建AP热点脚本
+https://github.com/jiqing112/create_ap/blob/master/README.md
 
 厚着脸皮举荐以下简书地址：  
 https://www.jianshu.com/u/aaf3d611867f  
