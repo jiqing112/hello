@@ -5,6 +5,16 @@
 因为有的博客的富文本编辑器对代码展示真的不友好,  
 ## Shadowsocks四合一脚本
 http://t.cn/RDTGIsa
+## youtube-dl的翻译文档
+https://github.com/jiqing112/youtube-dl
+## 祝你好运公共许可协议
+https://github.com/jiqing112/GLWTPL
+## Linux创建AP热点脚本翻译
+https://github.com/jiqing112/create_ap/blob/master/README.md
+
+
+
+---
 ## Fedora使用proxychain让终端翻墙
 https://github.com/jiqing112/hello/issues/2
 ## Fedora使用ss客户端翻墙上网
@@ -15,8 +25,7 @@ https://www.jianshu.com/p/f754cb2aa27d
 https://www.jianshu.com/p/d70c7f258201
 ## VPS SS代理上网无限谷歌验证的解决办法
 https://www.jianshu.com/p/8b0f983364c1
-## Linux创建AP热点脚本
-https://github.com/jiqing112/create_ap/blob/master/README.md
+
 
 厚着脸皮举荐以下简书地址：  
 https://www.jianshu.com/u/aaf3d611867f  
