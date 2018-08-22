@@ -11,6 +11,8 @@ https://github.com/jiqing112/youtube-dl
 https://github.com/jiqing112/GLWTPL
 ## Linux创建AP热点脚本翻译
 https://github.com/jiqing112/create_ap/blob/master/README.md
+## 局域网https解决方案
+https://github.com/jiqing112/mkcert
 
 
 
