@@ -29,12 +29,14 @@ https://www.jianshu.com/p/d70c7f258201
 https://www.jianshu.com/p/8b0f983364c1
 
 ---
-gnome美化
+# gnome美化
 ## 高仿mac主题
-https://www.opendesktop.org/p/1013741/
+https://www.opendesktop.org/p/1013741/  
+
 https://github.com/vinceliuice/Sierra-gtk-theme
 ## 狂拽酷炫吊炸天的GRUB2主题
-https://www.opendesktop.org/p/1009237/
+https://www.opendesktop.org/p/1009237/  
+
 https://github.com/vinceliuice/grub2-themes
 
 厚着脸皮举荐以下简书地址：  
