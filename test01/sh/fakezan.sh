@@ -1,5 +1,6 @@
 #!/bin/bash
 touch lala.txt
+
 git add lala.txt
 git commit -m "增加lala.txt"
 git add *.sh
