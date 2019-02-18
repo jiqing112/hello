@@ -36,4 +36,6 @@ Shadowsocks-Go 版：
 Shadowsocks-libev 版：
 /etc/init.d/shadowsocks-libev start | stop | restart | status
  ~~~
+# 开启BBR
+wget --no-check-certificate https://github.com/teddysun/across/raw/master/bbr.sh && chmod +x bbr.sh && ./bbr.sh
 
