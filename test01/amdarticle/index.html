@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta charset="UTF-8">
+    <title>蛤蛤蛤</title>
+    <style>
+
+    </style>
+   <script>
+       		var num = 0;
+	        var t = setInterval(function(){
+		       num++;
+		       var span1 = document.getElementById("span1");
+		       span1.innerText = num;
+			        if(num==1000000000000000000000000000000000000000){
+			        	clearInterval(t);
+			        }       
+	        },100);
+</script>
+  
+  <script>
+		function getDateDemo(){
+			/*
+			
+				//声明时间
+				var date = new Date();
+				alert(date);//当前时间
+				alert(date.toLocaleString());//转化为本地时间
+				alert(date.getFullYear());//显示年份
+				alert(date.getMonth() + 1);//显示月份 0-11，需要加1
+				alert(date.getDate());//显示一月中的日期
+				alert(date.getDay());//显示一周的日期，星期几
+				alert(date.getHours());//获取小时时间
+				alert(date.getMinutes());//获取当前分钟
+				alert(date.getSeconds());//获取当前秒数
+				alert(date.getMilliseconds());//获取当前的毫秒数
+				alert(date.getTime());//获取从1970年1月1日午夜零时，到当前时间的毫秒值
+			*/	
+				//分别获取年、月、日、时、分、秒
+				var myDate = new Date();
+				var year = myDate.getFullYear();
+				var month = myDate.getMonth() + 1;
+				var date = myDate.getDate();
+				var hours = myDate.getHours();
+				var minutes = myDate.getMinutes();
+				var seconds = myDate.getSeconds();
+				
+				//月份的显示为两位数字如09月
+				if(month < 10 ){
+					month = "0" + month;
+				}
+				if(date < 10 ){
+					date = "0" + date;
+				}
+				
+				//时间拼接
+				var dateTime = year + "年" + month + "月" + date + "日" + hours + "时" + minutes + "分" + seconds + "秒";
+				
+				//document.write(dateTime);//打印当前时间
+				
+				var divNode = document.getElementById("time");
+				divNode.innerHTML = dateTime;
+			
+		}	
+		window.setInterval("getDateDemo()",1000);//每隔1秒，调用一次getDateDemo()
+	
+			
+		</script>
+</head>
+<body>
+<div style="width:838px;margin: 150px auto">
+    <div style="width:838px;text-align: center;font-size: 26px;font-weight:bold">
+        标题放大了你才会看
+    </div>
+    <div style="font-size: 20px;margin-top:90px">亲爱的访问者：</div>
+    <div style="margin-top:20px;font-size: 18px;color: #5A5A5A;line-height:36px">感谢您使用您生命中的  <span id="span1">0</span>S来访问本网站</div>
+      <div style="margin-top:20px;font-size: 18px;color: #5A5A5A;line-height:36px">有木有感觉生命在飞速流逝？</div>
+  <img height="200" width="200" src="https://ae01.alicdn.com/kf/HTB1ZH_BVNTpK1RjSZR0762EwXXag.png">
+    <div style="font-size: 18px;color: #5A5A5A;margin-top: 100px;text-align: right;line-height:36px">
+         <div id="time"></div>
+    </div>
+</div>
+
+<!----></body></html>
