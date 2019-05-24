@@ -43,7 +43,4 @@ https://github.com/vinceliuice/grub2-themes
 一个极简主题  
 https://github.com/jiqing112/minimalism
 
-厚着脸皮举荐以下简书地址：  
-https://www.jianshu.com/u/aaf3d611867f  
-虽然也不会有人关注到我  
 
